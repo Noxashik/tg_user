@@ -43,7 +43,7 @@
 ## ⚙️ Installation / ইনস্টলেশন
 ```bash
 
-# pkg update
+ pkg update
 pkg upgrade
 pkg install python
 pkg install git
@@ -53,10 +53,10 @@ pip install rich
 pip install pyfiglet
 
 # Clone repo
-git clone https://github.com/YOUR-USERNAME/telegram-username-checker.git
-cd telegram-username-checker
+git clone https://github.com/Noxashik/tg_user.git
+cd tg_user
 
 # Install dependencies
 pip install -r requirements.txt
 
-# python tguser.py
+ python main.py
